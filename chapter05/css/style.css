@@ -11,9 +11,9 @@
   background-color: #000;
   color: #fff;
   border-radius: 3px;
-  box-shadow: 1px 1px 3px rgba(0, 0, 0, .5);
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
 }
 
 .btn {
-  width: 100%;ß
+  width: 100%;
 }
